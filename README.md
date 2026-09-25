@@ -8,8 +8,8 @@ The task is to implement a system finding frequent itemsets (aka market-basket a
 
 ### Repository structure:
 
-- project_report.pdf: The project report, written in LaTeX, provides a comprehensive overview of the methodology, experiments, and results.
-- project_code.ipynb: The python notebook containing the code used for the project.
+* `project_report.pdf`: The project report, written in LaTeX, provides a comprehensive overview of the methodology, experiments, and results.
+* `project_code.ipynb`: The python notebook containing the code used for the project.
 
 The following badge links directly to the Colab version of the notebook
 
